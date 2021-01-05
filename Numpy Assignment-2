@@ -1,1 +1,13 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Python-top priority language</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <h2>Welcoming all Pythonistas</h2>
+    <h3>A great gift by Guido van Rossum</h3>
+    <p>Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace.</p>
+    <p> Feel free to comment and share</p>
+</body>
+</html>
